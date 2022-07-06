@@ -1,0 +1,6 @@
+imutils==0.5.3
+keyboard==0.13.5
+numpy==1.19.5
+opencv_python==4.4.0.46
+PyAutoGUI==0.9.50
+selenium==4.3.0
